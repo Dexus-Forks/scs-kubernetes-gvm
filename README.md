@@ -2,7 +2,7 @@
 
 
 
-GVMK purpose is to containerize and run Greenbone's Vulnerability Manager Stack in Kubernetes, with the following:
+GVMK purpose is run Greenbone's Vulnerability Manager Stack in Kubernetes, with the following:
 
 - GVM Base Libraries (gvm-libs)
 - Greenbone Security Assistant (gsad)
