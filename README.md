@@ -1,1 +1,1 @@
-# GVM-Kubernetes
+# Greenbone Vulnerability Manager stack for Kubernetes.
