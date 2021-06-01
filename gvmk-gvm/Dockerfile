@@ -1,5 +1,0 @@
-FROM ubuntu:20.10
-
-ENV DEBIAN_FRONTEND=noninteractive
-ENV LANG=C.UTF-8
-
